@@ -29,6 +29,7 @@ public class Main {
 						m++;
 					}
 				}
+				
 				else if(j==countSplash){
 					for(int n=i;n>0;n--){
 						for(int k=0;k<numOfInput;k++){
