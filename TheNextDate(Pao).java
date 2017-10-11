@@ -80,6 +80,7 @@ public class Year {
 					{
 						day = 1;
 						System.out.println((month+1) + "/0" + (day) + "/"+ (year));
+						
 					}
 				}
 			}
