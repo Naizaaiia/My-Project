@@ -14,6 +14,7 @@ public class Main {
 		System.out.print("Input "+numOfInput+" number:");
 		for(int i=0;i<numOfInput;i++){
 			listRound[i] = scanner.nextInt();
+			
 		}
 		
 		for(int i=1;i<=numOfInput;i++){
