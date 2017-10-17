@@ -23,7 +23,6 @@ public class test {
                 continue;
             }
         }
-        
         System.out.println(gcd);
        
     }
