@@ -29,8 +29,6 @@ public class TheNextDate {
 		if(Month == 2){
 			if(Year % 4 != 0){
 				System.out.print("Error, try to enter Year again : ");
-				
-				
 			}
 		}
 		
